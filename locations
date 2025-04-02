@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Erasmusbrug",
+    "latitude": 51.909036,
+    "longitude": 4.486093
+  },
+  {
+    "name": "Markthal",
+    "latitude": 51.920941,
+    "longitude": 4.486305
+  },
+  {
+    "name": "Euromast",
+    "latitude": 51.905770,
+    "longitude": 4.466980
+  },
+  {
+    "name": "Rotterdam Centraal Station",
+    "latitude": 51.922500,
+    "longitude": 4.479170
+  },
+  {
+    "name": "De Kuip (Feyenoord Stadion)",
+    "latitude": 51.893360,
+    "longitude": 4.523600
+  },
+  {
+    "name": "Hotel New York",
+    "latitude": 51.903130,
+    "longitude": 4.484620
+  },
+  {
+    "name": "Kunsthal Rotterdam",
+    "latitude": 51.910370,
+    "longitude": 4.473820
+  },
+  {
+    "name": "Cube Houses (Kubuswoningen)",
+    "latitude": 51.920467,
+    "longitude": 4.489106
+  },
+  {
+    "name": "SS Rotterdam",
+    "latitude": 51.900530,
+    "longitude": 4.481480
+  },
+  {
+    "name": "Witte de Withstraat",
+    "latitude": 51.914750,
+    "longitude": 4.477230
+  }
+]
