@@ -1,52 +1,52 @@
 [
   {
-    "name": "Erasmusbrug",
-    "latitude": 51.909036,
-    "longitude": 4.486093
+    "name": "Station Rijen",
+    "latitude": 51.588090,
+    "longitude": 4.920310
   },
   {
-    "name": "Markthal",
-    "latitude": 51.920941,
-    "longitude": 4.486305
+    "name": "Sint Petrus Bandenkerk (Gilze)",
+    "latitude": 51.552090,
+    "longitude": 4.930110
   },
   {
-    "name": "Euromast",
-    "latitude": 51.905770,
-    "longitude": 4.466980
+    "name": "Brouwerij De Pimpelmeesch (Molenschot)",
+    "latitude": 51.568310,
+    "longitude": 4.902180
   },
   {
-    "name": "Rotterdam Centraal Station",
-    "latitude": 51.922500,
-    "longitude": 4.479170
+    "name": "Museum Miniaturen & Poppenhuizen (Rijen)",
+    "latitude": 51.589470,
+    "longitude": 4.922830
   },
   {
-    "name": "De Kuip (Feyenoord Stadion)",
-    "latitude": 51.893360,
-    "longitude": 4.523600
+    "name": "Boswachterij Dorst - Uitkijktoren",
+    "latitude": 51.588420,
+    "longitude": 4.897570
   },
   {
-    "name": "Hotel New York",
-    "latitude": 51.903130,
-    "longitude": 4.484620
+    "name": "Recreatiepark 't Veen (Gilze)",
+    "latitude": 51.551950,
+    "longitude": 4.937300
   },
   {
-    "name": "Kunsthal Rotterdam",
-    "latitude": 51.910370,
-    "longitude": 4.473820
+    "name": "Sint Antoniuskerk (Molenschot)",
+    "latitude": 51.570800,
+    "longitude": 4.905700
   },
   {
-    "name": "Cube Houses (Kubuswoningen)",
-    "latitude": 51.920467,
-    "longitude": 4.489106
+    "name": "Hultens Broek (natuurgebied)",
+    "latitude": 51.572100,
+    "longitude": 4.963800
   },
   {
-    "name": "SS Rotterdam",
-    "latitude": 51.900530,
-    "longitude": 4.481480
+    "name": "Airbase Gilze-Rijen (spottersplek)",
+    "latitude": 51.564500,
+    "longitude": 4.922700
   },
   {
-    "name": "Witte de Withstraat",
-    "latitude": 51.914750,
-    "longitude": 4.477230
+    "name": "Wilhelminapark (Rijen)",
+    "latitude": 51.590400,
+    "longitude": 4.919600
   }
 ]
